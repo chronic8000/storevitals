@@ -1,0 +1,19 @@
+{
+  "Value": [
+    {
+      "date": "2026-11-10",
+      "acquisitionType": "Free",
+      "market": "US",
+      "deviceType": "PC",
+      "acquisitionQuantity": 10
+    },
+    {
+      "date": "2026-11-11",
+      "acquisitionType": "Free",
+      "market": "GB",
+      "deviceType": "PC",
+      "acquisitionQuantity": 4
+    }
+  ],
+  "@nextLink": "/v1.0/my/analytics/appacquisitions?skip=2"
+}

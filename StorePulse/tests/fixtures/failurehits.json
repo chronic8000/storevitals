@@ -1,0 +1,17 @@
+{
+  "value": [
+    {
+      "date": "2026-11-17",
+      "failureName": "AV in ModuleX",
+      "failureHash": "abc123",
+      "failureStackHash": "stack99",
+      "osVersion": "10.0.26100",
+      "osArchitecture": "ARM64",
+      "packageVersion": "1.2.3.0",
+      "eventType": "crash",
+      "eventCount": 5,
+      "cabId": "cab-1",
+      "stackTrace": "ModuleX!Crash"
+    }
+  ]
+}
